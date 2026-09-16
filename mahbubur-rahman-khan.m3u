@@ -1,0 +1,94 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/epg.xml"
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="Indian Bangla",Zee Bangla
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="Indian Bangla",Zee Bangla Sonar
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/171466.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.png" group-title="Indian Bangla",Sony Aath
+http://dvltv.cc:80/live/Digital-View-Web/6380-07053/161685.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="Indian Bangla",Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" group-title="Indian Bangla",Jalsha Movies HD
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132121.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMoviesSD.in" tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/RhPpv66K/Star-Jalsha-Movies-HD.jpg" group-title="Indian Bangla",Jalsha Movies SD
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132121.m3u8
+
+#EXTINF:-1 tvg-id="Enter10Bangla.in" tvg-name="Enter 10 Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Enter_10_Bangla.png" group-title="Indian Bangla",Enter10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SunBangla.in" tvg-name="Sun Bangla" tvg-logo="https://sunplex.net/iptv/logo/sun-bangla.png" group-title="Indian Bangla",Sun Bangla
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132122.m3u8
+
+#EXTINF:-1 tvg-id="AkashAath.in" tvg-name="Akash Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Akash_Aath_logo.png" group-title="Indian Bangla",Akash Aath
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" tvg-logo="https://sunplex.net/iptv/logo/colors-bangla.png" group-title="Indian Bangla",Colors Bangla
+http://dvltv.cc:80/live/Digital-View-Web/6380-07053/453.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="https://sunplex.net/iptv/logo/colors-bangla-cinema.png" group-title="Indian Bangla",Colors Bangla Cinema
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="StarBangla.in" tvg-name="Star Bangla" tvg-logo="https://sunplex.net/iptv/logo/star-bangla.png" group-title="Indian Bangla",Star Bangla
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="Bangla1.in" tvg-name="Bangla 1" tvg-logo="https://i.imgur.com/KxPLXJY.png" group-title="Indian Bangla",Bangla1
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Nagorik-TV-Logo.png" group-title="Bangladesh",Nagorik TV
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Deepto-TV-Logo.png" group-title="Bangladesh",Deepto TV
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/NTV-Logo.png" group-title="Bangladesh",NTV
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/171473.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" tvg-name="Somoy TV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Somoy-TV-Logo.png" group-title="Bangladesh",Somoy TV
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/149609.m3u8
+
+#EXTINF:-1 tvg-id="Channel1.bd" tvg-name="Channel 1" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Channel-1-Logo.png" group-title="Bangladesh",Channel 1
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="Channeli.bd" tvg-name="Channel i" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Channel-i-Logo.png" group-title="Bangladesh",Channel i
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision.bd" tvg-name="Banglavision" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Banglavision-Logo.png" group-title="Bangladesh",Banglavision
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Gazi-TV-Logo.png" group-title="Bangladesh",Gazi TV
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="MyTV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/MyTV-Logo.png" group-title="Bangladesh",MyTV
+https://playztv-apps.pages.dev/my-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Desh-TV-Logo.png" group-title="Bangladesh",Desh TV
+http://dvltv.cc:80/live/Digital-View-Web/6380-07053/4712.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.bd" tvg-name="Peace TV Bangla" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Peace-TV-Bangla-Logo.png" group-title="Bangladesh",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Star-News-Logo.png" group-title="Bangladesh News",Star News
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="News24.bd" tvg-name="News 24" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/News-24-Logo.png" group-title="Bangladesh News",News 24
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/91718.m3u8
+
+#EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" tvg-logo="https://bipony.com/wp-content/uploads/2021/08/Green-TV-Logo.png" group-title="Bangladesh",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://sunplex.net/iptv/logo/star-movies.png" group-title="Movies",Star Movies
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/33618.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://sunplex.net/iptv/logo/star-movies-select.png" group-title="Movies",Star Movies Select
+http://demo-stream.example.com/placeholder.m3u8
+
+#EXTINF:-1 tvg-id="HBO.in" tvg-name="HBO" tvg-logo="https://sunplex.net/iptv/logo/hbo.png" group-title="Movies",HBO FHD
+http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/97987.m3u8
+
+#EXTINF:-1 tvg-id="Sports18.in" tvg-name="Sports" tvg-logo="https://sunplex.net/iptv/logo/sports18.png" group-title="Sports",Sport
+http://demo-stream.example.com/placeholder.m3u8
