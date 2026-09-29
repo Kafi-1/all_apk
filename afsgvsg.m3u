@@ -6,11 +6,11 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:-1 tvg-id="Doraemon" tvg-name="Doraemon" group-title="Kids",Doraemon
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 
-#EXTINF:-1 tvg-id="Shinchan" tvg-name="Shinchan" group-title="Kids",Shinchan
-https://YOUR-LICENSED-SHINCHAN-STREAM.m3u8
+#EXTINF:-1 tvg-id="Sonyyah" tvg-name="Sony Yay" group-title="Kids",Sony Yay
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/204.m3u8
 
-#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" group-title="Entertainment",Colors Bangla
-https://YOUR-LICENSED-COLORS-BANGLA-STREAM.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" group-title="Entertainment",Colors Bangla Cinema
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
 
 #EXTINF:-1 tvg-name="HappyKids" group-title="Kids",HappyKids
 https://happykids-vizio.amagi.tv/playlist.m3u8
@@ -19,7 +19,7 @@ https://happykids-vizio.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-name="Baby Shark TV" group-title="Kids",Baby Shark TV
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Spacetoon" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
