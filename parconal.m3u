@@ -1,0 +1,109 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/index.xml.gz"
+
+# ===== Bangladesh News (15) =====
+#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh News",Somoy TV
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh News",Channel 24
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh News",ATN News
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh News",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh News",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh News",News21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh News",Jamuna TV
+https://YOUR_STREAM_URL/jamuna.m3u8
+#EXTINF:-1 tvg-id="NTV.bd" group-title="Bangladesh News",NTV
+https://YOUR_STREAM_URL/ntv.m3u8
+#EXTINF:-1 tvg-id="RTVNews.bd" group-title="Bangladesh News",RTV News
+https://YOUR_STREAM_URL/rtvnews.m3u8
+#EXTINF:-1 tvg-id="BanglaVisionNews.bd" group-title="Bangladesh News",Banglavision News
+https://YOUR_STREAM_URL/bvnews.m3u8
+#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh News",Independent TV
+https://YOUR_STREAM_URL/independent.m3u8
+#EXTINF:-1 tvg-id="MaasrangaNews.bd" group-title="Bangladesh News",Maasranga News
+https://YOUR_STREAM_URL/maasranganews.m3u8
+#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh News",Nagorik TV
+https://YOUR_STREAM_URL/nagorik.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="Bangladesh News",Boishakhi TV
+https://YOUR_STREAM_URL/boishakhi.m3u8
+#EXTINF:-1 tvg-id="KalbelaNews.bd" group-title="Bangladesh News",Kalbela News
+https://YOUR_STREAM_URL/kalbela.m3u8
+
+# ===== India Movies & Entertainment (20) =====
+#EXTINF:-1 group-title="India Movies",Zee Cinema
+https://YOUR_STREAM_URL/zeecinema.m3u8
+#EXTINF:-1 group-title="India Movies",Sony Max
+http://ridegold.xyz:80/live/MAGF7NF348/MAGNS1YKYN/980471.m3u8
+#EXTINF:-1 group-title="India Movies",Sony Max HD
+http://dvltv.cc/live/Digital-View-Web/6380-07053/18826.m3u8
+#EXTINF:-1 group-title="India Movies",Star Gold
+http://dvltv.cc/live/Digital-View-Web/6380-07053/495.m3u8
+#EXTINF:-1 group-title="India Movies",Movies Now
+https://YOUR_STREAM_URL/moviesnow.m3u8
+#EXTINF:-1 group-title="India Movies",&Pictures
+https://YOUR_STREAM_URL/pictures.m3u8
+#EXTINF:-1 group-title="India Movies",Zee Anmol Cinema
+https://YOUR_STREAM_URL/zeeanmolcinema.m3u8
+#EXTINF:-1 group-title="India Movies",B4U Movies
+https://YOUR_STREAM_URL/b4umovies.m3u8
+#EXTINF:-1 group-title="India Movies",Sony Wah
+http://dvltv.cc/live/Digital-View-Web/6380-07053/560.m3u8
+#EXTINF:-1 group-title="India Movies",Star Utsav Movies
+https://YOUR_STREAM_URL/starutsavmovies.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Plus
+https://YOUR_STREAM_URL/starplus.m3u8
+#EXTINF:-1 group-title="India Entertainment",Zee TV
+https://YOUR_STREAM_URL/zeetv.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony Entertainment TV
+https://YOUR_STREAM_URL/set.m3u8
+#EXTINF:-1 group-title="India Entertainment",Colors Bangla Cinema
+http://dvltv.cc/live/Digital-View-Web/6380-07053/454.m3u8
+#EXTINF:-1 group-title="India Entertainment",SAB TV
+https://YOUR_STREAM_URL/sabtv.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Bharat
+https://YOUR_STREAM_URL/starbharat.m3u8
+#EXTINF:-1 group-title="India Entertainment",&TV
+https://YOUR_STREAM_URL/andtv.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony SAB
+https://YOUR_STREAM_URL/sonysab.m3u8
+#EXTINF:-1 group-title="India Entertainment",Zee Anmol
+https://YOUR_STREAM_URL/zeeanmol.m3u8
+#EXTINF:-1 group-title="India Entertainment",DD National
+https://YOUR_STREAM_URL/ddnational.m3u8
+
+# ===== Kids (10) =====
+#EXTINF:-1 group-title="Kids",Cartoon Network India
+https://YOUR_STREAM_URL/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="Kids",Pogo
+https://YOUR_STREAM_URL/pogo.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon India
+https://YOUR_STREAM_URL/nickindia.m3u8
+#EXTINF:-1 group-title="Kids",Nick Jr. India
+https://YOUR_STREAM_URL/nickjr.m3u8
+#EXTINF:-1 group-title="Kids",Sonic Nick
+https://YOUR_STREAM_URL/sonic.m3u8
+#EXTINF:-1 group-title="Kids",Discovery Kids India
+https://YOUR_STREAM_URL/discoverykids.m3u8
+#EXTINF:-1 group-title="Kids",Hungama TV
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+#EXTINF:-1 group-title="Kids",Super Hungama
+http://dvltv.cc/live/Digital-View-Web/6380-07053/142490.m3u8
+#EXTINF:-1 group-title="Kids",Duronto TV
+https://YOUR_STREAM_URL/duronto.m3u8
+#EXTINF:-1 group-title="Kids",BabyTV
+https://YOUR_STREAM_URL/babytv.m3u8
+
+# ===== Bangladesh Entertainment / Music / Religious (5) =====
+#EXTINF:-1 group-title="Bangladesh Entertainment",Channel i
+https://YOUR_STREAM_URL/channeli.m3u8
+#EXTINF:-1 group-title="Bangladesh Entertainment",Banglavision
+https://YOUR_STREAM_URL/banglavision.m3u8
+#EXTINF:-1 group-title="Bangladesh Entertainment",ATN Bangla
+https://YOUR_STREAM_URL/atnbangla.m3u8
+#EXTINF:-1 group-title="Bangladesh Entertainment",Gaana Bangla
+https://YOUR_STREAM_URL/gaanabangla.m3u8
+#EXTINF:-1 group-title="Bangladesh Entertainment",Islamic TV
+https://YOUR_STREAM_URL/islamictv.m3u8
